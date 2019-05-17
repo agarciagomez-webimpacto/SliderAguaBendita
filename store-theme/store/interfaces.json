@@ -1,0 +1,9 @@
+{
+    "store.home.webimpacto": {
+        "allowed": [
+            "carouselalberto", 
+            "galeriaalberto",
+            "slideralberto"
+        ]
+    }
+}

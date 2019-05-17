@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.container {
+  min-height: 0.625rem;
+  min-width: 0.625rem;
+}
+
+.containerImg {
+  max-height: inherit;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+}
+
+.arrowsContainer {
+  box-sizing: content-box;
+}
+
+.arrowLeft {}
+.arrowRight {}
+
+/* mio */
+
+
+
+
+
+.letra{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 2rem;
+}
+.colorTexto{
+  color: inherit;
+  text-align: center;
+  color:black;
+}
+
+.fueraScroll {
+  overflow-x:hidden;
+
+}
+
+
+
+.logoWelove{
+  text-align: center;
+  margin-top: 100px;
+}
+
+/* Cetrar el shop the look */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index:1000;
+  display:none;
+}
+
+
+.containerShop:hover h3{
+  display:inline;
+
+}
+
+
+.containerShop img{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  
+  
+}
+
+.containerShop:hover {
+  position: relative;
+  text-align: center;
+  color: black;
+  
+}
+.containerShop:hover img{
+  filter: opacity(25%);
+
+}
+
+.containerShop {
+ 
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+
+}
+
